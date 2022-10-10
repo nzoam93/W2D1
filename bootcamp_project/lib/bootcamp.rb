@@ -74,3 +74,5 @@ class Bootcamp
         return @grades[student].average #uses the class Array average I made up top. Sweet!
     end
 end
+
+#change to see what happens
